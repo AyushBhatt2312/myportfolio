@@ -11,7 +11,7 @@ window.PORTFOLIO = {
 
   /* ---------- 1. SITE SETTINGS ---------- */
   settings: {
-    siteTitle: "Aarav Mehta — Player One",          // Browser tab title
+    siteTitle: "Ayush Bhatt — Player One",          // Browser tab title
     siteDescription: "B.Tech CSE student portfolio — projects, skills and journey.",
     theme: "synthwave",        // "synthwave" | "matrix" | "sunset" | "ocean"
     bootScreen: true,          // Show the "press start" intro screen
@@ -29,9 +29,9 @@ window.PORTFOLIO = {
 
   /* ---------- 2. PLAYER (YOU) ---------- */
   player: {
-    name: "Aarav Mehta",
-    handle: "aarav.dev",                       // Short brand / username shown in the top bar
-    avatar: "assets/images/himanshu.png",
+    name: "Ayush Bhatt",
+    handle: "ayush.dev",                       // Short brand / username shown in the top bar
+    avatar: "assets/images/Bhatt_Ayush.jpg",
     classTitles: [                             // Typed one after another in the hero
       "Code Wizard 🧙",
       "Full-Stack Apprentice",
@@ -39,7 +39,7 @@ window.PORTFOLIO = {
       "Hackathon Rookie"
     ],
     intro: "2nd-year B.Tech CSE student who turns caffeine into code. I build small things that solve real campus problems — and I'm levelling up one semester at a time.",
-    college: "ABC Institute of Technology",
+    college: "ABC Institute of Technologsssy",
     branch: "B.Tech — Computer Science & Engg.",
     year: 2,                                   // Current year of study (1–4) → shown as LV
     semester: 4,                               // Current semester (1–8) → XP bar
